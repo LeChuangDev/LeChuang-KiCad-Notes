@@ -1,0 +1,14 @@
+# Obsidian 本地配置文件夹（不要上传插件、工作区布局）
+.obsidian/
+
+# Windows系统缓存文件
+Thumbs.db
+desktop.ini
+
+# Mac系统文件
+.DS_Store
+
+# 临时备份文件
+*.tmp
+*.bak
+*.swp
